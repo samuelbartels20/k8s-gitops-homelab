@@ -7,3 +7,5 @@ resources:
   - ./ingress-nginx.yaml
   - ./openebs.yaml
   - ./bjw-s.yaml
+  - ./external-secrets.yaml
+  - ./piraues.yaml
