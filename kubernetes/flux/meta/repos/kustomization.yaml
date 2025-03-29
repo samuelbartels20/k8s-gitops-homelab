@@ -5,7 +5,7 @@ kind: Kustomization
 resources:
   - ./external-dns.yaml
   - ./ingress-nginx.yaml
-  - ./openebs.yaml
+  # - ./openebs.yaml
   - ./bjw-s.yaml
   - ./external-secrets.yaml
   - ./piraues.yaml
